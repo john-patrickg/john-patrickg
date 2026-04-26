@@ -65,7 +65,7 @@
 
 Two production-style projects I'm using to sharpen distributed-systems fundamentals. Each is being built step-by-step, with a learning log committed alongside the code.
 
-### 🔒 [idempotent-order-service](https://github.com/john-patrickg/idempotent-order-service)
+### 🔒 [rcb-ticket-booking-backend](https://github.com/john-patrickg/rcb-ticket-booking-backend)
 
 > No-duplicate order creation under concurrent requests, network retries, and double-clicks.
 
