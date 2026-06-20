@@ -96,4 +96,4 @@ Atomic check-and-decrement via a Redis Lua script (no read-modify-write races ac
 
 - **LinkedIn:** [linkedin.com/in/john-patrick-g](https://www.linkedin.com/in/john-patrick-g/)
 - **Email:** johnpatrick118j@gmail.com
-- **Location:** Bengaluru, India (open to relocation)
+- **Location:** Bengaluru, India
